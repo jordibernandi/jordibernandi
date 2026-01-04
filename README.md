@@ -9,6 +9,6 @@ This repository showcases a collection of side projects I’ve designed and deve
 
 - 🎓 **Academic work** – university projects, including my Master’s thesis
 - 🤖 **Hackathon & experimental apps** – AI-driven applications integrating LLMs and data science techniques
-- 📦 **Business solutions** – a warehouse management system currently used by my family’s business
+- 📦 **Business solutions** – a warehouse management system actively used by a small business for inventory tracking
 - 🏛️ **Community projects** – such as a church event registration system used by a local church
 
